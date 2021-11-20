@@ -1,7 +1,7 @@
 # Seminar Lighweight Text classification
-   [TODO]: ":heavy_exclamation_mark:"
-   [DONE]: :heavy_check_mark:
-   [PENDING]: ":grey_question:"
+   [TODO]: <> ":heavy_exclamation_mark:"
+   [DONE]: <> :heavy_check_mark:
+   [PENDING]: <> ":grey_question:"
 
 
 [Mindmap](https://www.mindmeister.com/2089883874)
