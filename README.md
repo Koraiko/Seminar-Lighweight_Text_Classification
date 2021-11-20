@@ -4,29 +4,24 @@
    [PENDING]: :clock5:
    [Mindmap]: https://www.mindmeister.com/2089883874
 
-## TODO-List
- - update [Mindmap]
- - [:heavy_exclamation_mark: skipgram](#heavy_exclamation_mark-skipgram)
- - :heavy_exclamation_mark: fastText
- - :heavy_exclamation_mark: MDLText
- - :heavy_exclamation_mark: Sinusoidal Positional Encoding
+[Mindmap]
 
-## :heavy_exclamation_mark: skipgram
+## skipgram
 ### Introduction
 ### Algorithmus
 ### Used
 
-## :heavy_exclamation_mark: fastText
+## fastText
 ### Introduction
 ### Algorithmus
 ### Used
 
-## :heavy_exclamation_mark: MDLText
+## MDLText
 ### Introduction
 ### Algorithmus
 ### Used
 
-## :heavy_exclamation_mark: Sinusoidal Positional Encoding
+## Sinusoidal Positional Encoding
 ### Introduction
 ### Algorithmus
 ### Used
