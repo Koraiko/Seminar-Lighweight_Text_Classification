@@ -34,4 +34,4 @@
 # testing ground
 This is my [random value] located somewhere in my Markdown document.
 
-[random value]: variable value
+[random value]: "variable value"
