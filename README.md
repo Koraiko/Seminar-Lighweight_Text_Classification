@@ -7,7 +7,7 @@
 <!--  yeah you cann look into these links if they are still working :D -->
 
 
-This repository is the official page of my seminar paper "Lighweight Text Classification".
+This repository is the official page of my seminar paper "Lightweight Text Classification". It was done in the Winter semester of 2021/2022 at the University Ulm.
 
 ### Abstract
 This paper looks at three different algorithms: skip-gram, fastText, and MDLText for lightweight text classification. It compares them and discusses the impacts to find the most suitable use case for each classification algorithm.
