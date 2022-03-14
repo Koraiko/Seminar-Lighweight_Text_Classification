@@ -2,12 +2,13 @@
    [TODO]: :heavy_exclamation_mark:
    [DONE]: :heavy_check_mark:
    [PENDING]: :clock5:
-   [Mindmap]: https://www.mindmeister.com/2089883874
-   [LaTex]: https://www.overleaf.com/project/6190165fdd7287462ac6f1cc
 <!--  yeah you cann look into these links if they are still working :D -->
 
 
 This repository is the official page of my seminar paper "Lightweight Text Classification". It was done in the Winter semester of 2021/2022 at the University Ulm.
+
+### Presentation
+The presentation was on 7th march 2022 (2022-03-07) at 9:45am in an online zoom call.
 
 ### Abstract
 This paper looks at three different algorithms: skip-gram, fastText, and MDLText for lightweight text classification. It compares them and discusses the impacts to find the most suitable use case for each classification algorithm.
